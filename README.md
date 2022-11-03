@@ -1,2 +1,4 @@
-# Security-Resources
-Lsit of useful resources
+# Security Resources
+A List of useful security related resources.
+
+
